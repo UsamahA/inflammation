@@ -8,4 +8,6 @@ who is responsible for what and when in this projec.
 Creating one change inside GitHub.
 
 Create a change in our local folder
+
+Our first visual studio code change 
 >>>>>>> experimental
